@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="loginVideo.gif" width="800"/>
 </div>
-<br>
+<br> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=%F0%9F%92%BBLogin+de+usuario" alt="Typing SVG" /></a>
  
